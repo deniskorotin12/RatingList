@@ -1,0 +1,33 @@
+.mat-form-adding{
+    text-align: center;
+
+    mat-form-field{
+        margin: 0em 1em;
+    }
+}
+
+.table-card{
+    margin-top: 0.5em;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3em;
+
+    .delete-person{
+        margin-left: 5em;
+    }
+}
+.visibility-button-block{
+    width: 100%;
+    .display_button{
+        opacity: 0.3;
+    }
+}
+
+.clear-card{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 1em;
+}
